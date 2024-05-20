@@ -47,7 +47,7 @@ options:
 
 ## Examples
 
-Create a new configuration file with your `config.json` as the baseline. Mod definitions are appended to `{ "game": { "mods": [] } }`. Mods are appended to `{ "game": { "mods": [] } }`:
+Create a new configuration file with your `config.json` as the baseline. Mod definitions are appended to `{ "game": { "mods": [] } }`:
 
 ```
 ardsmm -o test.json -m examples/mods.txt examples/config.json
