@@ -1,0 +1,31 @@
+{
+    "bindAddress": "127.0.0.1",
+    "bindPort": 2001,
+    "game": {
+        "crossPlatform": true,
+        "gameProperties": {
+            "VONDisableDirectSpeechUI": false,
+            "VONDisableUI": false,
+            "battlEye": true,
+            "disableThirdPerson": false,
+            "fastValidation": true,
+            "networkViewDistance": 500,
+            "serverMaxViewDistance": 500,
+            "serverMinGrassDistance": 50
+        },
+        "maxPlayers": 50,
+        "mods": [
+        ],
+        "name": "Test test test",
+        "password": "",
+        "passwordAdmin": "",
+        "scenarioId": "{ECC61978EDCC2B5A}Missions/23_Campaign.conf",
+        "supportedPlatforms": [
+            "PLATFORM_PC",
+            "PLATFORM_XBL"
+        ],
+        "visible": true
+    },
+    "publicAddress": "127.0.0.1",
+    "publicPort": 2001
+}

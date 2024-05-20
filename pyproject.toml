@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ardsmm"
+authors = [
+    {name = "Joseph Hunkeler", email = "jhunkeler@gmail.com"},
+]
+description = "Arma Reforger dedicated server mod manager"
+readme = "README.md"
+requires-python = ">=3.10"
+keywords = ["arma", "reforger", "dedicated", "server", "mods"]
+license = {text = "BSD-3-Clause"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+dependencies = []
+dynamic = ["version"]
+
+[project.scripts]
+ardsmm = "ardsmm.__main__:main"
+
+[tool.setuptools_scm]
+version_file = "ardsmm/_version.py"

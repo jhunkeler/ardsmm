@@ -1,0 +1,40 @@
+            {
+                "modId": "60C4C12DAE90727B",
+                "name": "ACE Medical",
+                "version": "1.0.3"
+            },
+            {
+                "modId": "5EB744C5F42E0800",
+                "name": "ACE Chopping",
+                "version": "1.1.4"
+            },
+            {
+                "modId": "5DBD560C5148E1DA",
+                "name": "ACE Carrying",
+                "version": "1.0.18"
+            },
+            {
+                "modId": "5AAAC70D754245DD",
+                "name": "Server Admin Tools",
+                "version": "1.0.56"
+            },
+            {
+                "modId": "606B100247F5C709",
+                "name": "Bacon Loadout Editor",
+                "version": "1.0.27"
+            },
+            {
+                "modId": "60EAEA0389DB3CC2",
+                "name": "ACE Trenches",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "60E573C9B04CC408",
+                "name": "ACE Backblast",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "60C4CE4888FF4621",
+                "name": "ACE Core",
+                "version": "1.0.3"
+            },
